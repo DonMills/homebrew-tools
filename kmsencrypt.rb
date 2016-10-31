@@ -1,4 +1,4 @@
-class KMSencrypt < Formula
+class Kmsencrypt < Formula
   desc "tool to perform envelope encryption with KMS keys"
   homepage "https://github.com/DonMills/kmsencrypt"
   url "https://github.com/DonMills/kmsencrypt/releases/download/v1.0rc/kmsencrypt.macos64.tar.gz"
